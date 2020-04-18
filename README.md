@@ -1,8 +1,8 @@
 # Automatic timetable creation
 Team: Team: Nadezhda Badyuk-Gorobivskaya, Egor Gubanov, Pavlov Vyacheslav, Mike Kuskov
 
-## Requirements
-JDK: `Java 1.8`
+## Prerequisites
+Java: `JRE/JDK 8 (version 1.8)`
 
 ## Setup
 
